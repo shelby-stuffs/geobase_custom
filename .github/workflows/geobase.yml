@@ -33,6 +33,10 @@ jobs:
           curl -L -o geobase/srs_cidr4.srs "https://iplist.opencck.org/?format=srs&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
           curl -L -o geobase/srs_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
 
+          echo "Downloading Amnezia rules..."
+          curl -L -o geobase/amnezia_cidr4.txt "https://iplist.opencck.org/?format=amnezia&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
+          curl -L -o geobase/amnezia_domains.txt "https://iplist.opencck.org/?format=amnezia&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -61,6 +65,8 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/amnezia_cidr4.txt \
+              geobase/amnezia_domains.txt \
               --clobber
           else
             echo "Creating new release $TAG_NAME..."
@@ -72,6 +78,8 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/amnezia_cidr4.txt \
+              geobase/amnezia_domains.txt \
               --title "Custom Geobase (Latest)" \
               --notes "Automated release of custom geobase files. Updated every 12 hours."
           fi
