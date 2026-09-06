@@ -1,0 +1,3234 @@
+[
+    {
+        "hostname": "10minutemail.com",
+        "ip": ""
+    },
+    {
+        "hostname": "11cdn.org",
+        "ip": ""
+    },
+    {
+        "hostname": "1337x.to",
+        "ip": ""
+    },
+    {
+        "hostname": "37signals.com",
+        "ip": ""
+    },
+    {
+        "hostname": "4pda.to",
+        "ip": ""
+    },
+    {
+        "hostname": "9proxy.com",
+        "ip": ""
+    },
+    {
+        "hostname": "a-msedge.net",
+        "ip": ""
+    },
+    {
+        "hostname": "aave.com",
+        "ip": ""
+    },
+    {
+        "hostname": "account-tiktok.com",
+        "ip": ""
+    },
+    {
+        "hostname": "addlive.io",
+        "ip": ""
+    },
+    {
+        "hostname": "adjust.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ads-pixiv.net",
+        "ip": ""
+    },
+    {
+        "hostname": "adsbynimbus.com",
+        "ip": ""
+    },
+    {
+        "hostname": "agents.media",
+        "ip": ""
+    },
+    {
+        "hostname": "agentura.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "aida64.com",
+        "ip": ""
+    },
+    {
+        "hostname": "akamai.net",
+        "ip": ""
+    },
+    {
+        "hostname": "akamaized.net",
+        "ip": ""
+    },
+    {
+        "hostname": "amazonaws.com",
+        "ip": ""
+    },
+    {
+        "hostname": "amd.online",
+        "ip": ""
+    },
+    {
+        "hostname": "amplitude.com",
+        "ip": ""
+    },
+    {
+        "hostname": "anidub.com",
+        "ip": ""
+    },
+    {
+        "hostname": "anidub.pro",
+        "ip": ""
+    },
+    {
+        "hostname": "anilibria.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "animego.org",
+        "ip": ""
+    },
+    {
+        "hostname": "animetop.info",
+        "ip": ""
+    },
+    {
+        "hostname": "animevost.org",
+        "ip": ""
+    },
+    {
+        "hostname": "anthropic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "anydesk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "appcenter.ms",
+        "ip": ""
+    },
+    {
+        "hostname": "appspot.com",
+        "ip": ""
+    },
+    {
+        "hostname": "archiveofourown.org",
+        "ip": ""
+    },
+    {
+        "hostname": "atomile.com",
+        "ip": ""
+    },
+    {
+        "hostname": "auth0.com",
+        "ip": ""
+    },
+    {
+        "hostname": "autocad.com",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk.ae",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk.be",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk.net",
+        "ip": ""
+    },
+    {
+        "hostname": "autodesk360.com",
+        "ip": ""
+    },
+    {
+        "hostname": "azureedge.net",
+        "ip": ""
+    },
+    {
+        "hostname": "babook.org",
+        "ip": ""
+    },
+    {
+        "hostname": "backblazeb2.com",
+        "ip": ""
+    },
+    {
+        "hostname": "basecamp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "basecampapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bato.to",
+        "ip": ""
+    },
+    {
+        "hostname": "bbc.co.uk",
+        "ip": ""
+    },
+    {
+        "hostname": "bbc.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bbci.co.uk",
+        "ip": ""
+    },
+    {
+        "hostname": "beeble.com",
+        "ip": ""
+    },
+    {
+        "hostname": "beeg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bellingcat.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bestchange.net",
+        "ip": ""
+    },
+    {
+        "hostname": "bestchange.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "bigsv.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "bing.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bingapis.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bitninja.com",
+        "ip": ""
+    },
+    {
+        "hostname": "bitninja.io",
+        "ip": ""
+    },
+    {
+        "hostname": "booktracker.org",
+        "ip": ""
+    },
+    {
+        "hostname": "booktracker.work",
+        "ip": ""
+    },
+    {
+        "hostname": "booth.pm",
+        "ip": ""
+    },
+    {
+        "hostname": "browser-intake-datadoghq.com",
+        "ip": ""
+    },
+    {
+        "hostname": "byspotify.com",
+        "ip": ""
+    },
+    {
+        "hostname": "byteimg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "byteoversea.com",
+        "ip": ""
+    },
+    {
+        "hostname": "byteoversea.net",
+        "ip": ""
+    },
+    {
+        "hostname": "bytetcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "canva-apps.com",
+        "ip": ""
+    },
+    {
+        "hostname": "canva.com",
+        "ip": ""
+    },
+    {
+        "hostname": "capcut.com",
+        "ip": ""
+    },
+    {
+        "hostname": "capcutapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "capcutapi.us",
+        "ip": ""
+    },
+    {
+        "hostname": "capcutcdn-us.com",
+        "ip": ""
+    },
+    {
+        "hostname": "capcutstatic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cdn-telegram.org",
+        "ip": ""
+    },
+    {
+        "hostname": "cdn32.lol",
+        "ip": ""
+    },
+    {
+        "hostname": "cdninstagram.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cdntogo.net",
+        "ip": ""
+    },
+    {
+        "hostname": "chatgpt.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cherta.media",
+        "ip": ""
+    },
+    {
+        "hostname": "chess.com",
+        "ip": ""
+    },
+    {
+        "hostname": "chesscomfiles.com",
+        "ip": ""
+    },
+    {
+        "hostname": "chilipiper.com",
+        "ip": ""
+    },
+    {
+        "hostname": "clau.de",
+        "ip": ""
+    },
+    {
+        "hostname": "claude.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "claude.app",
+        "ip": ""
+    },
+    {
+        "hostname": "claude.com",
+        "ip": ""
+    },
+    {
+        "hostname": "claude.new",
+        "ip": ""
+    },
+    {
+        "hostname": "claude.site",
+        "ip": ""
+    },
+    {
+        "hostname": "claudemcpclient.com",
+        "ip": ""
+    },
+    {
+        "hostname": "claudemcpcontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "claudepages.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "claudestudio.com",
+        "ip": ""
+    },
+    {
+        "hostname": "claudeusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "clickup.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cloudflareaccess.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cloudfunctions.net",
+        "ip": ""
+    },
+    {
+        "hostname": "cloudinary.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cloudlinux.com",
+        "ip": ""
+    },
+    {
+        "hostname": "colta.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "comments.app",
+        "ip": ""
+    },
+    {
+        "hostname": "contest.com",
+        "ip": ""
+    },
+    {
+        "hostname": "crunchyroll.com",
+        "ip": ""
+    },
+    {
+        "hostname": "currenttime.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "cwer.ws",
+        "ip": ""
+    },
+    {
+        "hostname": "daramalive.life",
+        "ip": ""
+    },
+    {
+        "hostname": "datadoghq.com",
+        "ip": ""
+    },
+    {
+        "hostname": "deepl.com",
+        "ip": ""
+    },
+    {
+        "hostname": "deepseek.com",
+        "ip": ""
+    },
+    {
+        "hostname": "deezer.com",
+        "ip": ""
+    },
+    {
+        "hostname": "demand.supply",
+        "ip": ""
+    },
+    {
+        "hostname": "dept.one",
+        "ip": ""
+    },
+    {
+        "hostname": "deviantart.com",
+        "ip": ""
+    },
+    {
+        "hostname": "dis.gd",
+        "ip": ""
+    },
+    {
+        "hostname": "disboard.org",
+        "ip": ""
+    },
+    {
+        "hostname": "discord-activities.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.center",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.co",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.design",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.gg",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.gift",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.gifts",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.me",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.media",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.new",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.st",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.store",
+        "ip": ""
+    },
+    {
+        "hostname": "discord.tools",
+        "ip": ""
+    },
+    {
+        "hostname": "discordInvites.net",
+        "ip": ""
+    },
+    {
+        "hostname": "discordactivities.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordapp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordapp.io",
+        "ip": ""
+    },
+    {
+        "hostname": "discordapp.net",
+        "ip": ""
+    },
+    {
+        "hostname": "discordbee.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordbotlist.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordexpert.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordhome.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordhub.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordlist.me",
+        "ip": ""
+    },
+    {
+        "hostname": "discordlist.space",
+        "ip": ""
+    },
+    {
+        "hostname": "discordmerch.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordpartygames.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discords.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordsays.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordservers.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordstatus.com",
+        "ip": ""
+    },
+    {
+        "hostname": "discordtop.com",
+        "ip": ""
+    },
+    {
+        "hostname": "disforge.com",
+        "ip": ""
+    },
+    {
+        "hostname": "donmai.us",
+        "ip": ""
+    },
+    {
+        "hostname": "doramy.club",
+        "ip": ""
+    },
+    {
+        "hostname": "doxa.team",
+        "ip": ""
+    },
+    {
+        "hostname": "duolingo.com",
+        "ip": ""
+    },
+    {
+        "hostname": "dw.com",
+        "ip": ""
+    },
+    {
+        "hostname": "dynect.net",
+        "ip": ""
+    },
+    {
+        "hostname": "dyno.gg",
+        "ip": ""
+    },
+    {
+        "hostname": "dzcdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "e621.net",
+        "ip": ""
+    },
+    {
+        "hostname": "echofm.online",
+        "ip": ""
+    },
+    {
+        "hostname": "ehorussia.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ej.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "elevenlabs.io",
+        "ip": ""
+    },
+    {
+        "hostname": "eu.org",
+        "ip": ""
+    },
+    {
+        "hostname": "euler.finance",
+        "ip": ""
+    },
+    {
+        "hostname": "euronews.com",
+        "ip": ""
+    },
+    {
+        "hostname": "exler.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "externulls.com",
+        "ip": ""
+    },
+    {
+        "hostname": "f95zone.to",
+        "ip": ""
+    },
+    {
+        "hostname": "facebook.com",
+        "ip": ""
+    },
+    {
+        "hostname": "facebook.com.es",
+        "ip": ""
+    },
+    {
+        "hostname": "facebook.com.vn",
+        "ip": ""
+    },
+    {
+        "hostname": "facebook.fr",
+        "ip": ""
+    },
+    {
+        "hostname": "facebook.net",
+        "ip": ""
+    },
+    {
+        "hostname": "fanbox.cc",
+        "ip": ""
+    },
+    {
+        "hostname": "fast.com",
+        "ip": ""
+    },
+    {
+        "hostname": "fastly-edge.com",
+        "ip": ""
+    },
+    {
+        "hostname": "fastly.net",
+        "ip": ""
+    },
+    {
+        "hostname": "fastpic.org",
+        "ip": ""
+    },
+    {
+        "hostname": "fastpic.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "fatsecret.com",
+        "ip": ""
+    },
+    {
+        "hostname": "fb.com",
+        "ip": ""
+    },
+    {
+        "hostname": "fb.me",
+        "ip": ""
+    },
+    {
+        "hostname": "fbcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "fbcdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "fbsbx.com",
+        "ip": ""
+    },
+    {
+        "hostname": "feelinsonice.com",
+        "ip": ""
+    },
+    {
+        "hostname": "femeretes.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ficbook.net",
+        "ip": ""
+    },
+    {
+        "hostname": "filmitorrent.net",
+        "ip": ""
+    },
+    {
+        "hostname": "filmix.biz",
+        "ip": ""
+    },
+    {
+        "hostname": "filmix.fm",
+        "ip": ""
+    },
+    {
+        "hostname": "findAdiscord.com",
+        "ip": ""
+    },
+    {
+        "hostname": "flibusta.is",
+        "ip": ""
+    },
+    {
+        "hostname": "flibusta.net",
+        "ip": ""
+    },
+    {
+        "hostname": "fmhy.lol",
+        "ip": ""
+    },
+    {
+        "hostname": "fmhy.net",
+        "ip": ""
+    },
+    {
+        "hostname": "fragment.com",
+        "ip": ""
+    },
+    {
+        "hostname": "freetp.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ftscrt.com",
+        "ip": ""
+    },
+    {
+        "hostname": "garmin.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gelbooru.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gethornet.com",
+        "ip": ""
+    },
+    {
+        "hostname": "getsentry.net",
+        "ip": ""
+    },
+    {
+        "hostname": "ggpht.cn",
+        "ip": ""
+    },
+    {
+        "hostname": "ggpht.com",
+        "ip": ""
+    },
+    {
+        "hostname": "github.com",
+        "ip": ""
+    },
+    {
+        "hostname": "githubcopilot.com",
+        "ip": ""
+    },
+    {
+        "hostname": "githubusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "godaddy.com",
+        "ip": ""
+    },
+    {
+        "hostname": "golosameriki.com",
+        "ip": ""
+    },
+    {
+        "hostname": "google.com",
+        "ip": ""
+    },
+    {
+        "hostname": "googleapis.com",
+        "ip": ""
+    },
+    {
+        "hostname": "googleusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "googlevideo.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gordonua.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gpt3-openai.com",
+        "ip": ""
+    },
+    {
+        "hostname": "grammarly.com",
+        "ip": ""
+    },
+    {
+        "hostname": "grammarly.io",
+        "ip": ""
+    },
+    {
+        "hostname": "graph.org",
+        "ip": ""
+    },
+    {
+        "hostname": "grok.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gstatic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "gulagu.net",
+        "ip": ""
+    },
+    {
+        "hostname": "gvt1.com",
+        "ip": ""
+    },
+    {
+        "hostname": "hdrezka.ac",
+        "ip": ""
+    },
+    {
+        "hostname": "hdrezka.ag",
+        "ip": ""
+    },
+    {
+        "hostname": "hdrezka.cm",
+        "ip": ""
+    },
+    {
+        "hostname": "hdrezka.la",
+        "ip": ""
+    },
+    {
+        "hostname": "hellonotion.com",
+        "ip": ""
+    },
+    {
+        "hostname": "hentaicdn.org",
+        "ip": ""
+    },
+    {
+        "hostname": "hentaichan.live",
+        "ip": ""
+    },
+    {
+        "hostname": "hentailib.me",
+        "ip": ""
+    },
+    {
+        "hostname": "hetzner.com",
+        "ip": ""
+    },
+    {
+        "hostname": "holod.media",
+        "ip": ""
+    },
+    {
+        "hostname": "hornet-live.com",
+        "ip": ""
+    },
+    {
+        "hostname": "hornet.com",
+        "ip": ""
+    },
+    {
+        "hostname": "hqporner.com",
+        "ip": ""
+    },
+    {
+        "hostname": "hrw.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ibytedtos.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ibyteimg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ieee.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ig.me",
+        "ip": ""
+    },
+    {
+        "hostname": "ill.in.ua",
+        "ip": ""
+    },
+    {
+        "hostname": "important-stories.com",
+        "ip": ""
+    },
+    {
+        "hostname": "infinitenovel.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "insidehornet.com",
+        "ip": ""
+    },
+    {
+        "hostname": "instagram.com",
+        "ip": ""
+    },
+    {
+        "hostname": "intercom.io",
+        "ip": ""
+    },
+    {
+        "hostname": "intercomassets.com",
+        "ip": ""
+    },
+    {
+        "hostname": "intercomcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ipstatp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "isnssdk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "istories.media",
+        "ip": ""
+    },
+    {
+        "hostname": "itch.io",
+        "ip": ""
+    },
+    {
+        "hostname": "itch.zone",
+        "ip": ""
+    },
+    {
+        "hostname": "jut.su",
+        "ip": ""
+    },
+    {
+        "hostname": "kara.su",
+        "ip": ""
+    },
+    {
+        "hostname": "kasparov.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "kavkaz-uzel.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "kemono.cr",
+        "ip": ""
+    },
+    {
+        "hostname": "kilo.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "kino.pub",
+        "ip": ""
+    },
+    {
+        "hostname": "kino.watch",
+        "ip": ""
+    },
+    {
+        "hostname": "kinobase.org",
+        "ip": ""
+    },
+    {
+        "hostname": "kinovod.net",
+        "ip": ""
+    },
+    {
+        "hostname": "kinovod.pro",
+        "ip": ""
+    },
+    {
+        "hostname": "kinozal.guru",
+        "ip": ""
+    },
+    {
+        "hostname": "kinozal.me",
+        "ip": ""
+    },
+    {
+        "hostname": "kinozal.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "kodik-add.com",
+        "ip": ""
+    },
+    {
+        "hostname": "kodik-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "kodik-storage.com",
+        "ip": ""
+    },
+    {
+        "hostname": "kodik.biz",
+        "ip": ""
+    },
+    {
+        "hostname": "kodik.info",
+        "ip": ""
+    },
+    {
+        "hostname": "kodikapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "kodikdb.com",
+        "ip": ""
+    },
+    {
+        "hostname": "kodikplayer.com",
+        "ip": ""
+    },
+    {
+        "hostname": "korrespondent.net",
+        "ip": ""
+    },
+    {
+        "hostname": "krymr.com",
+        "ip": ""
+    },
+    {
+        "hostname": "last.fm",
+        "ip": ""
+    },
+    {
+        "hostname": "libria.fun",
+        "ip": ""
+    },
+    {
+        "hostname": "licdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "linkedin.com",
+        "ip": ""
+    },
+    {
+        "hostname": "linktr.ee",
+        "ip": ""
+    },
+    {
+        "hostname": "live.net",
+        "ip": ""
+    },
+    {
+        "hostname": "lostfilm.download",
+        "ip": ""
+    },
+    {
+        "hostname": "lostfilm.run",
+        "ip": ""
+    },
+    {
+        "hostname": "lostfilm.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "lostfilm.win",
+        "ip": ""
+    },
+    {
+        "hostname": "make.com",
+        "ip": ""
+    },
+    {
+        "hostname": "mangahub.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mangalib.me",
+        "ip": ""
+    },
+    {
+        "hostname": "mangamirai.com",
+        "ip": ""
+    },
+    {
+        "hostname": "mangapark.net",
+        "ip": ""
+    },
+    {
+        "hostname": "mdza.io",
+        "ip": ""
+    },
+    {
+        "hostname": "mediazona.ca",
+        "ip": ""
+    },
+    {
+        "hostname": "medium.com",
+        "ip": ""
+    },
+    {
+        "hostname": "meduza.io",
+        "ip": ""
+    },
+    {
+        "hostname": "mee6.xyz",
+        "ip": ""
+    },
+    {
+        "hostname": "meetme.com",
+        "ip": ""
+    },
+    {
+        "hostname": "meetmecdna.com",
+        "ip": ""
+    },
+    {
+        "hostname": "memohrc.org",
+        "ip": ""
+    },
+    {
+        "hostname": "memopzk.org",
+        "ip": ""
+    },
+    {
+        "hostname": "memorialcenter.org",
+        "ip": ""
+    },
+    {
+        "hostname": "messenger.com",
+        "ip": ""
+    },
+    {
+        "hostname": "meta.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "meta.com",
+        "ip": ""
+    },
+    {
+        "hostname": "metabrainz.org",
+        "ip": ""
+    },
+    {
+        "hostname": "microsoft.com",
+        "ip": ""
+    },
+    {
+        "hostname": "microsoftapp.net",
+        "ip": ""
+    },
+    {
+        "hostname": "miro.com",
+        "ip": ""
+    },
+    {
+        "hostname": "mirostatic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "modelcontextprotocol.com",
+        "ip": ""
+    },
+    {
+        "hostname": "modelcontextprotocol.io",
+        "ip": ""
+    },
+    {
+        "hostname": "modelcontextprotocol.net",
+        "ip": ""
+    },
+    {
+        "hostname": "modelcontextprotocol.org",
+        "ip": ""
+    },
+    {
+        "hostname": "modrinth.com",
+        "ip": ""
+    },
+    {
+        "hostname": "modrinth.gg",
+        "ip": ""
+    },
+    {
+        "hostname": "morpho.org",
+        "ip": ""
+    },
+    {
+        "hostname": "moscowtimes.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mrakopedia.net",
+        "ip": ""
+    },
+    {
+        "hostname": "muscdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "musemuse.cn",
+        "ip": ""
+    },
+    {
+        "hostname": "musical.ly",
+        "ip": ""
+    },
+    {
+        "hostname": "musicbrainz.org",
+        "ip": ""
+    },
+    {
+        "hostname": "myanimelist.net",
+        "ip": ""
+    },
+    {
+        "hostname": "myheritage.com",
+        "ip": ""
+    },
+    {
+        "hostname": "myheritage.ee",
+        "ip": ""
+    },
+    {
+        "hostname": "namecheap.com",
+        "ip": ""
+    },
+    {
+        "hostname": "naukimg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "naukri.com",
+        "ip": ""
+    },
+    {
+        "hostname": "navalny.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflix.ca",
+        "ip": ""
+    },
+    {
+        "hostname": "netflix.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflix.com.au",
+        "ip": ""
+    },
+    {
+        "hostname": "netflix.net",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest1.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest10.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest2.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest3.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest4.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest5.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest6.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest7.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest8.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixdnstest9.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixinvestor.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixstudios.com",
+        "ip": ""
+    },
+    {
+        "hostname": "netflixtechblog.com",
+        "ip": ""
+    },
+    {
+        "hostname": "newstudio.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "newtimes.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "nexus-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "nexusmods.com",
+        "ip": ""
+    },
+    {
+        "hostname": "nflxext.com",
+        "ip": ""
+    },
+    {
+        "hostname": "nflximg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "nflximg.net",
+        "ip": ""
+    },
+    {
+        "hostname": "nflxsearch.net",
+        "ip": ""
+    },
+    {
+        "hostname": "nflxso.net",
+        "ip": ""
+    },
+    {
+        "hostname": "nflxvideo.net",
+        "ip": ""
+    },
+    {
+        "hostname": "nnmclub.to",
+        "ip": ""
+    },
+    {
+        "hostname": "nnmstatic.win",
+        "ip": ""
+    },
+    {
+        "hostname": "notebook.google",
+        "ip": ""
+    },
+    {
+        "hostname": "notebooklm.google",
+        "ip": ""
+    },
+    {
+        "hostname": "notepad-plus-plus.org",
+        "ip": ""
+    },
+    {
+        "hostname": "notion-media.com",
+        "ip": ""
+    },
+    {
+        "hostname": "notion-static.com",
+        "ip": ""
+    },
+    {
+        "hostname": "notion.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "notion.com",
+        "ip": ""
+    },
+    {
+        "hostname": "notion.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "notion.site",
+        "ip": ""
+    },
+    {
+        "hostname": "notion.so",
+        "ip": ""
+    },
+    {
+        "hostname": "notionup.com",
+        "ip": ""
+    },
+    {
+        "hostname": "notionusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "novayagazeta.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "novayagazeta.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "nyaa.land",
+        "ip": ""
+    },
+    {
+        "hostname": "nyaa.si",
+        "ip": ""
+    },
+    {
+        "hostname": "oaistatic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "oaiusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "onetrust.com",
+        "ip": ""
+    },
+    {
+        "hostname": "openai.com",
+        "ip": ""
+    },
+    {
+        "hostname": "openai.fund",
+        "ip": ""
+    },
+    {
+        "hostname": "openai.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ovd.info",
+        "ip": ""
+    },
+    {
+        "hostname": "ovdinfo.legal",
+        "ip": ""
+    },
+    {
+        "hostname": "ovdinfo.org",
+        "ip": ""
+    },
+    {
+        "hostname": "paperagency.team",
+        "ip": ""
+    },
+    {
+        "hostname": "paperpaper.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "papersupport.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "pastela.app",
+        "ip": ""
+    },
+    {
+        "hostname": "patreon.com",
+        "ip": ""
+    },
+    {
+        "hostname": "patreonusercontent.com",
+        "ip": ""
+    },
+    {
+        "hostname": "perplexity.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "perplexity.com",
+        "ip": ""
+    },
+    {
+        "hostname": "phncdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "pixabay.com",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv-recommend.net",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv.co.jp",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv.help",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv.me",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv.net",
+        "ip": ""
+    },
+    {
+        "hostname": "pixiv.org",
+        "ip": ""
+    },
+    {
+        "hostname": "pixivision.net",
+        "ip": ""
+    },
+    {
+        "hostname": "plab.site",
+        "ip": ""
+    },
+    {
+        "hostname": "polit.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "pollo.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "pornhub.com",
+        "ip": ""
+    },
+    {
+        "hostname": "pornolab.net",
+        "ip": ""
+    },
+    {
+        "hostname": "pplx.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "prismic.io",
+        "ip": ""
+    },
+    {
+        "hostname": "proekt.media",
+        "ip": ""
+    },
+    {
+        "hostname": "prostovpn.org",
+        "ip": ""
+    },
+    {
+        "hostname": "proton.me",
+        "ip": ""
+    },
+    {
+        "hostname": "protonmail.com",
+        "ip": ""
+    },
+    {
+        "hostname": "proxy6.net",
+        "ip": ""
+    },
+    {
+        "hostname": "proxyline.net",
+        "ip": ""
+    },
+    {
+        "hostname": "pscdn.co",
+        "ip": ""
+    },
+    {
+        "hostname": "pstatp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "pubnubapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "pximg.net",
+        "ip": ""
+    },
+    {
+        "hostname": "qualtrics.com",
+        "ip": ""
+    },
+    {
+        "hostname": "quiz.directory",
+        "ip": ""
+    },
+    {
+        "hostname": "quora.com",
+        "ip": ""
+    },
+    {
+        "hostname": "quoracdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "r2---sn--n5pbvoj5caxu8-nboz.google",
+        "ip": ""
+    },
+    {
+        "hostname": "r3---sn--h557snl6.googlevideo",
+        "ip": ""
+    },
+    {
+        "hostname": "radiosvoboda.org",
+        "ip": ""
+    },
+    {
+        "hostname": "rakuten.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ralphlauren.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "rdtcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "reddxxx.com",
+        "ip": ""
+    },
+    {
+        "hostname": "redgifs.com",
+        "ip": ""
+    },
+    {
+        "hostname": "redtube.com",
+        "ip": ""
+    },
+    {
+        "hostname": "refactoring.guru",
+        "ip": ""
+    },
+    {
+        "hostname": "returnyoutubedislikeapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "rezka.ag",
+        "ip": ""
+    },
+    {
+        "hostname": "rezka.my",
+        "ip": ""
+    },
+    {
+        "hostname": "rezkify.com",
+        "ip": ""
+    },
+    {
+        "hostname": "rocket-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ru-board.com",
+        "ip": ""
+    },
+    {
+        "hostname": "rulate.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rule34.xxx",
+        "ip": ""
+    },
+    {
+        "hostname": "rustorka.com",
+        "ip": ""
+    },
+    {
+        "hostname": "rutor.info",
+        "ip": ""
+    },
+    {
+        "hostname": "rutor.is",
+        "ip": ""
+    },
+    {
+        "hostname": "rutor.org",
+        "ip": ""
+    },
+    {
+        "hostname": "rutracker.cc",
+        "ip": ""
+    },
+    {
+        "hostname": "rutracker.net",
+        "ip": ""
+    },
+    {
+        "hostname": "rutracker.org",
+        "ip": ""
+    },
+    {
+        "hostname": "rutracker.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rutracker.wiki",
+        "ip": ""
+    },
+    {
+        "hostname": "rutrk.org",
+        "ip": ""
+    },
+    {
+        "hostname": "sankakucomplex.com",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-cdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-corp.net",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-gw.com",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-jpl.com",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-prod.net",
+        "ip": ""
+    },
+    {
+        "hostname": "sc-static.net",
+        "ip": ""
+    },
+    {
+        "hostname": "scdn.co",
+        "ip": ""
+    },
+    {
+        "hostname": "seasonvar.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "semnasem.org",
+        "ip": ""
+    },
+    {
+        "hostname": "sentry-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "sentry.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "sentry.io",
+        "ip": ""
+    },
+    {
+        "hostname": "serv01001.xyz",
+        "ip": ""
+    },
+    {
+        "hostname": "sgsnssdk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "shikimori.one",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.art",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.group",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.link",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.me",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.org",
+        "ip": ""
+    },
+    {
+        "hostname": "signal.tube",
+        "ip": ""
+    },
+    {
+        "hostname": "snap-dev.net",
+        "ip": ""
+    },
+    {
+        "hostname": "snap.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapads.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapchat-com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapchat.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapkit.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapmap.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snapmap.org",
+        "ip": ""
+    },
+    {
+        "hostname": "snapmaps.com",
+        "ip": ""
+    },
+    {
+        "hostname": "snd.sc",
+        "ip": ""
+    },
+    {
+        "hostname": "sndcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "softlayer.com",
+        "ip": ""
+    },
+    {
+        "hostname": "solodcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "soundcloud.cloud",
+        "ip": ""
+    },
+    {
+        "hostname": "soundcloud.com",
+        "ip": ""
+    },
+    {
+        "hostname": "splunkcloud.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spoti.fi",
+        "ip": ""
+    },
+    {
+        "hostname": "spotify-everywhere.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotify.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotify.design",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifycdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifycdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifycharts.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifycodes.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifyforbrands.com",
+        "ip": ""
+    },
+    {
+        "hostname": "spotifyjobs.com",
+        "ip": ""
+    },
+    {
+        "hostname": "statichdrezka.ac",
+        "ip": ""
+    },
+    {
+        "hostname": "stealth.si",
+        "ip": ""
+    },
+    {
+        "hostname": "strava.com",
+        "ip": ""
+    },
+    {
+        "hostname": "strem.io",
+        "ip": ""
+    },
+    {
+        "hostname": "stremio.com",
+        "ip": ""
+    },
+    {
+        "hostname": "stremio.net",
+        "ip": ""
+    },
+    {
+        "hostname": "stremio.one",
+        "ip": ""
+    },
+    {
+        "hostname": "strpst.com",
+        "ip": ""
+    },
+    {
+        "hostname": "svoboda.org",
+        "ip": ""
+    },
+    {
+        "hostname": "t-ru.org",
+        "ip": ""
+    },
+    {
+        "hostname": "t-s.news",
+        "ip": ""
+    },
+    {
+        "hostname": "t.co",
+        "ip": ""
+    },
+    {
+        "hostname": "t.me",
+        "ip": ""
+    },
+    {
+        "hostname": "tayga.info",
+        "ip": ""
+    },
+    {
+        "hostname": "tdesktop.com",
+        "ip": ""
+    },
+    {
+        "hostname": "telega.one",
+        "ip": ""
+    },
+    {
+        "hostname": "telegra.ph",
+        "ip": ""
+    },
+    {
+        "hostname": "telegram-cdn.org",
+        "ip": ""
+    },
+    {
+        "hostname": "telegram.dog",
+        "ip": ""
+    },
+    {
+        "hostname": "telegram.me",
+        "ip": ""
+    },
+    {
+        "hostname": "telegram.org",
+        "ip": ""
+    },
+    {
+        "hostname": "telegram.space",
+        "ip": ""
+    },
+    {
+        "hostname": "telesco.pe",
+        "ip": ""
+    },
+    {
+        "hostname": "tfbnw.net",
+        "ip": ""
+    },
+    {
+        "hostname": "tg.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "the-village.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "thefacebook.com",
+        "ip": ""
+    },
+    {
+        "hostname": "theins.press",
+        "ip": ""
+    },
+    {
+        "hostname": "theins.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "thelazy.net",
+        "ip": ""
+    },
+    {
+        "hostname": "themoviedb.org",
+        "ip": ""
+    },
+    {
+        "hostname": "thepiratebay.org",
+        "ip": ""
+    },
+    {
+        "hostname": "thetruestory.news",
+        "ip": ""
+    },
+    {
+        "hostname": "tidal.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktok.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokcdn-eu.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokcdn-in.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokcdn-us.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokd.org",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokglobalshop.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokv.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokv.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "tiktokw.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "tlivecdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tmdb.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ton.org",
+        "ip": ""
+    },
+    {
+        "hostname": "top.gg",
+        "ip": ""
+    },
+    {
+        "hostname": "torrent.by",
+        "ip": ""
+    },
+    {
+        "hostname": "torrindex.net",
+        "ip": ""
+    },
+    {
+        "hostname": "tracker.wf",
+        "ip": ""
+    },
+    {
+        "hostname": "traffmovie.com",
+        "ip": ""
+    },
+    {
+        "hostname": "trainingpeaks.com",
+        "ip": ""
+    },
+    {
+        "hostname": "transferwise.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ttlivecdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ttoversea.net",
+        "ip": ""
+    },
+    {
+        "hostname": "ttoverseaus.net",
+        "ip": ""
+    },
+    {
+        "hostname": "ttwstatic.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tuta.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tutanota.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tvrain.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tvrain.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "tweetdeck.com",
+        "ip": ""
+    },
+    {
+        "hostname": "twimg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "twitter.com",
+        "ip": ""
+    },
+    {
+        "hostname": "tx.me",
+        "ip": ""
+    },
+    {
+        "hostname": "ubnt.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ui.com",
+        "ip": ""
+    },
+    {
+        "hostname": "unian.net",
+        "ip": ""
+    },
+    {
+        "hostname": "usercontent.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "vbcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vbcdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "verstka.media",
+        "ip": ""
+    },
+    {
+        "hostname": "viber.co",
+        "ip": ""
+    },
+    {
+        "hostname": "viber.com",
+        "ip": ""
+    },
+    {
+        "hostname": "viber.me",
+        "ip": ""
+    },
+    {
+        "hostname": "video-ik-ok-ii.xyz",
+        "ip": ""
+    },
+    {
+        "hostname": "vndb.org",
+        "ip": ""
+    },
+    {
+        "hostname": "voidboost.cc",
+        "ip": ""
+    },
+    {
+        "hostname": "voidboost.com",
+        "ip": ""
+    },
+    {
+        "hostname": "voidboost.in",
+        "ip": ""
+    },
+    {
+        "hostname": "voidboost.one",
+        "ip": ""
+    },
+    {
+        "hostname": "voidnetwork.cloud",
+        "ip": ""
+    },
+    {
+        "hostname": "vot-tak.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "vroid.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vrv.co",
+        "ip": ""
+    },
+    {
+        "hostname": "wa.me",
+        "ip": ""
+    },
+    {
+        "hostname": "wdfiles.com",
+        "ip": ""
+    },
+    {
+        "hostname": "web-platform.io",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp-plus.info",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp-plus.me",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp-plus.net",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.biz",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.cc",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.info",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.net",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.org",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsapp.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "whatsappbrand.com",
+        "ip": ""
+    },
+    {
+        "hostname": "whispersystems.org",
+        "ip": ""
+    },
+    {
+        "hostname": "whoop.com",
+        "ip": ""
+    },
+    {
+        "hostname": "wikiart.org",
+        "ip": ""
+    },
+    {
+        "hostname": "wikidot.com",
+        "ip": ""
+    },
+    {
+        "hostname": "wise.com",
+        "ip": ""
+    },
+    {
+        "hostname": "withgoogle.com",
+        "ip": ""
+    },
+    {
+        "hostname": "withyoutube.com",
+        "ip": ""
+    },
+    {
+        "hostname": "wixmp.com",
+        "ip": ""
+    },
+    {
+        "hostname": "wl.co",
+        "ip": ""
+    },
+    {
+        "hostname": "worldfcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "worldfcdn2.com",
+        "ip": ""
+    },
+    {
+        "hostname": "wstracker.online",
+        "ip": ""
+    },
+    {
+        "hostname": "x.ai",
+        "ip": ""
+    },
+    {
+        "hostname": "x.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xhamster.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xhamsterlive.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xhcdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xnxx-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xnxx-ru.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xnxx.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xv-ru.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xvideos-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "xvideos.com",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexwebcache.org",
+        "ip": ""
+    },
+    {
+        "hostname": "younettranslate.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtu.be",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube-nocookie.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ae",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.al",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.am",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.at",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.az",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ba",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.be",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.bg",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.bh",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.bo",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.by",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ca",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.cat",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ch",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.cl",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.ae",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.at",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.cr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.hu",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.id",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.il",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.in",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.jp",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.ke",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.kr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.ma",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.nz",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.th",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.tz",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.ug",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.uk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.ve",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.za",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.co.zw",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ar",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.au",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.az",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.bd",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.bh",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.bo",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.br",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.by",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.co",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.do",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ec",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ee",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.eg",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.es",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.gh",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.gr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.gt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.hk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.hn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.hr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.jm",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.jo",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.kw",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.lb",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.lv",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ly",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.mk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.mt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.mx",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.my",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ng",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ni",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.om",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.pa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.pe",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ph",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.pk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.pt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.py",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.qa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ro",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.sa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.sg",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.sv",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.tn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.tr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.tw",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ua",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.uy",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.com.ve",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.cr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.cz",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.de",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.dk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ee",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.es",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.fi",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.fr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ge",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.gr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.gt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.hk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.hr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.hu",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ie",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.in",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.iq",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.is",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.it",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.jo",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.jp",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.kr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.kz",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.la",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.lk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.lt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.lu",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.lv",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ly",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ma",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.md",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.me",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.mk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.mn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.mx",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.my",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ng",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ni",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.nl",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.no",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pe",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ph",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pl",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pr",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.pt",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.qa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ro",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.rs",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.sa",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.se",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.sg",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.si",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.sk",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.sn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.soy",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.sv",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.tn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ua",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.ug",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.uy",
+        "ip": ""
+    },
+    {
+        "hostname": "youtube.vn",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubeeducation.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubefanfest.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubegaming.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.co.id",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.co.in",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.com.br",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.id",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubego.in",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubekids.com",
+        "ip": ""
+    },
+    {
+        "hostname": "youtubemobilesupport.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ysagin.top",
+        "ip": ""
+    },
+    {
+        "hostname": "yt.be",
+        "ip": ""
+    },
+    {
+        "hostname": "ytimg.com",
+        "ip": ""
+    },
+    {
+        "hostname": "yummyanime.tv",
+        "ip": ""
+    },
+    {
+        "hostname": "zapier-deployment.com",
+        "ip": ""
+    },
+    {
+        "hostname": "zapier.com",
+        "ip": ""
+    },
+    {
+        "hostname": "zeflix.online",
+        "ip": ""
+    },
+    {
+        "hostname": "zello.com",
+        "ip": ""
+    },
+    {
+        "hostname": "zendesk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "zet-flix.online",
+        "ip": ""
+    },
+    {
+        "hostname": "zetflix-online.lol",
+        "ip": ""
+    },
+    {
+        "hostname": "zetflix-online.skin",
+        "ip": ""
+    },
+    {
+        "hostname": "zetflix.app",
+        "ip": ""
+    },
+    {
+        "hostname": "zetimage.net",
+        "ip": ""
+    },
+    {
+        "hostname": "znanija.com",
+        "ip": ""
+    },
+    {
+        "hostname": "zona.media",
+        "ip": ""
+    }
+]
