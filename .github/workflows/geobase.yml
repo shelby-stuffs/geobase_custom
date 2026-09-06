@@ -21,11 +21,17 @@ jobs:
         run: |
           mkdir -p geobase
           
-          echo "Downloading custom geobase..."
-          
+          echo "Downloading custom geoip and geosite..."
           curl -L -o geobase/geoip_custom.dat "https://iplist.opencck.org/?format=geoip&data=cidr4&native=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=jetbrains&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
-          
           curl -L -o geobase/geosite_custom.dat "https://iplist.opencck.org/?format=geosite&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=jetbrains&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
+          
+          echo "Downloading sing-box JSON rules..."
+          curl -L -o geobase/singbox_cidr4.json "https://iplist.opencck.org/?format=singbox&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
+          curl -L -o geobase/singbox_domains.json "https://iplist.opencck.org/?format=singbox&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
+          
+          echo "Downloading SRS binary rules..."
+          curl -L -o geobase/srs_cidr4.srs "https://iplist.opencck.org/?format=srs&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
+          curl -L -o geobase/srs_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
 
       - name: Commit and push changes
         run: |
@@ -48,11 +54,24 @@ jobs:
           if gh release view "$TAG_NAME" >/dev/null 2>&1; then
             echo "Release $TAG_NAME already exists. Updating assets..."
             # Флаг --clobber перезаписывает файлы с таким же именем в существующем релизе
-            gh release upload "$TAG_NAME" geobase/geoip_custom.dat geobase/geosite_custom.dat --clobber
+            gh release upload "$TAG_NAME" \
+              geobase/geoip_custom.dat \
+              geobase/geosite_custom.dat \
+              geobase/singbox_cidr4.json \
+              geobase/singbox_domains.json \
+              geobase/srs_cidr4.srs \
+              geobase/srs_domains.srs \
+              --clobber
           else
             echo "Creating new release $TAG_NAME..."
             # Создаем релиз и сразу загружаем туда файлы
-            gh release create "$TAG_NAME" geobase/geoip_custom.dat geobase/geosite_custom.dat \
+            gh release create "$TAG_NAME" \
+              geobase/geoip_custom.dat \
+              geobase/geosite_custom.dat \
+              geobase/singbox_cidr4.json \
+              geobase/singbox_domains.json \
+              geobase/srs_cidr4.srs \
+              geobase/srs_domains.srs \
               --title "Custom Geobase (Latest)" \
               --notes "Automated release of custom geobase files. Updated every 12 hours."
           fi
