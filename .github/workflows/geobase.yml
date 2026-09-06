@@ -1,0 +1,58 @@
+name: Fetch Custom Geobase
+
+on:
+  schedule:
+    # Запуск каждые 12 часов (в 00:00 и 12:00 UTC)
+    - cron: '0 */12 * * *'
+  # Позволяет запустить workflow вручную для теста
+  workflow_dispatch:
+
+jobs:
+  download-commit-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Нужно для коммитов и создания релизов
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download custom geobase
+        run: |
+          mkdir -p geobase
+          
+          echo "Downloading custom geobase..."
+          
+          curl -L -o geobase/geoip_custom.dat "https://iplist.opencck.org/?format=geoip&data=cidr4&native=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=jetbrains&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
+          
+          curl -L -o geobase/geosite_custom.dat "https://iplist.opencck.org/?format=geosite&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=jetbrains&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add geobase/
+          
+          # Делаем коммит, если есть изменения. Если изменений нет, шаг не упадет с ошибкой, а пойдет дальше.
+          git commit -m "Auto-update custom geobase [skip ci]" || echo "No changes to commit"
+          git push || echo "Nothing to push"
+
+      - name: Upload to GitHub Releases
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG_NAME="geobase-latest"
+          
+          # Проверяем, существует ли уже релиз с таким тегом
+          if gh release view "$TAG_NAME" >/dev/null 2>&1; then
+            echo "Release $TAG_NAME already exists. Updating assets..."
+            # Флаг --clobber перезаписывает файлы с таким же именем в существующем релизе
+            gh release upload "$TAG_NAME" geobase/geoip_custom.dat geobase/geosite_custom.dat --clobber
+          else
+            echo "Creating new release $TAG_NAME..."
+            # Создаем релиз и сразу загружаем туда файлы
+            gh release create "$TAG_NAME" geobase/geoip_custom.dat geobase/geosite_custom.dat \
+              --title "Custom Geobase (Latest)" \
+              --notes "Automated release of custom geobase files. Updated every 12 hours."
+          fi
