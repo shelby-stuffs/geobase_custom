@@ -41,8 +41,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "твой@email.com" # Не забудь поменять на свой!
-          git config --local user.name "Твой Никнейм"    # И тут тоже
+          git config --local user.email "shelbyhell@proton.me" # Не забудь поменять на свой!
+          git config --local user.name "Alexey Shelby"    # И тут тоже
           
           git add geobase/
           
