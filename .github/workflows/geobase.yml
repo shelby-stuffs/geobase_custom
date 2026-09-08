@@ -32,6 +32,7 @@ jobs:
           echo "Downloading SRS binary rules..."
           curl -L -o geobase/srs_cidr4.srs "https://iplist.opencck.org/?format=srs&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
           curl -L -o geobase/srs_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
+          curl -L -o geobase/srs_music_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&site=deezer.com&site=last.fm&site=musicbrainz.org&site=soundcloud.com&site=spotify.com&site=tidal.com&version=4"
 
           echo "Downloading Amnezia rules..."
           curl -L -o geobase/amnezia_cidr4.txt "https://iplist.opencck.org/?format=amnezia&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube"
@@ -39,13 +40,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "shelbyhell@proton.me"
-          git config --local user.name "Alexey Shelby"
+          git config --local user.email "твой@email.com" # Не забудь поменять на свой!
+          git config --local user.name "Твой Никнейм"    # И тут тоже
           
           git add geobase/
           
-          # Делаем коммит, если есть изменения. Если изменений нет, шаг не упадет с ошибкой, а пойдет дальше.
-          git commit -m "Auto-update custom geobase [skip ci]" --sign || echo "No changes to commit"
+          git commit -m "Auto-update custom geobase [skip ci]" || echo "No changes to commit"
           git push || echo "Nothing to push"
 
       - name: Upload to GitHub Releases
@@ -54,10 +54,8 @@ jobs:
         run: |
           TAG_NAME="geobase-latest"
           
-          # Проверяем, существует ли уже релиз с таким тегом
           if gh release view "$TAG_NAME" >/dev/null 2>&1; then
             echo "Release $TAG_NAME already exists. Updating assets..."
-            # Флаг --clobber перезаписывает файлы с таким же именем в существующем релизе
             gh release upload "$TAG_NAME" \
               geobase/geoip_custom.dat \
               geobase/geosite_custom.dat \
@@ -65,12 +63,12 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/srs_music_domains.srs \
               geobase/amnezia_cidr4.txt \
               geobase/amnezia_domains.txt \
               --clobber
           else
             echo "Creating new release $TAG_NAME..."
-            # Создаем релиз и сразу загружаем туда файлы
             gh release create "$TAG_NAME" \
               geobase/geoip_custom.dat \
               geobase/geosite_custom.dat \
@@ -78,6 +76,7 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/srs_music_domains.srs \
               geobase/amnezia_cidr4.txt \
               geobase/amnezia_domains.txt \
               --title "Custom Geobase (Latest)" \
