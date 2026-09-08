@@ -32,6 +32,7 @@ jobs:
           echo "Downloading SRS binary rules..."
           curl -L -o geobase/srs_cidr4.srs "https://iplist.opencck.org/?format=srs&data=cidr4&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
           curl -L -o geobase/srs_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&group=ai&group=anime&group=art&group=discord&group=education&group=finance&group=games&group=hosting&group=messengers&group=music&group=news&group=porn&group=shop&group=socials&group=tools&group=torrent&group=video&group=youtube&version=4"
+          curl -L -o geobase/srs_music_cidr4.srs "https://iplist.opencck.org/?format=srs&data=cidr4&site=deezer.com&site=last.fm&site=musicbrainz.org&site=soundcloud.com&site=spotify.com&site=tidal.com&version=4"
           curl -L -o geobase/srs_music_domains.srs "https://iplist.opencck.org/?format=srs&data=domains&wildcard=1&site=deezer.com&site=last.fm&site=musicbrainz.org&site=soundcloud.com&site=spotify.com&site=tidal.com&version=4"
 
           echo "Downloading Amnezia rules..."
@@ -63,6 +64,7 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/srs_music_cidr4.srs \
               geobase/srs_music_domains.srs \
               geobase/amnezia_cidr4.txt \
               geobase/amnezia_domains.txt \
@@ -76,6 +78,7 @@ jobs:
               geobase/singbox_domains.json \
               geobase/srs_cidr4.srs \
               geobase/srs_domains.srs \
+              geobase/srs_music_cidr4.srs \
               geobase/srs_music_domains.srs \
               geobase/amnezia_cidr4.txt \
               geobase/amnezia_domains.txt \
