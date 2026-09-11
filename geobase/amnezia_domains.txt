@@ -1752,6 +1752,10 @@
         "ip": ""
     },
     {
+        "hostname": "revanced.app",
+        "ip": ""
+    },
+    {
         "hostname": "rezka.ag",
         "ip": ""
     },
