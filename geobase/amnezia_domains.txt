@@ -424,6 +424,26 @@
         "ip": ""
     },
     {
+        "hostname": "cursor-cdn.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cursor.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cursor.sh",
+        "ip": ""
+    },
+    {
+        "hostname": "cursorapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "cursorvm.com",
+        "ip": ""
+    },
+    {
         "hostname": "cwer.ws",
         "ip": ""
     },
@@ -2197,6 +2217,10 @@
     },
     {
         "hostname": "tmdb.org",
+        "ip": ""
+    },
+    {
+        "hostname": "todesktop.com",
         "ip": ""
     },
     {
